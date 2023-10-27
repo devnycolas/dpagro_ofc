@@ -7,7 +7,7 @@ Dashboard de apresentação para a Divisão de Política Agrícola - DPAGRO
 [🔗 Clique aqui para acessar](https://dpagro-dashboard.streamlit.app/)
 
 
-## 🛠 Tecnologias
+## 💻 Tecnologias
 
 - Python
 - Biblioteca Pandas para análise e organização dos dados
@@ -15,6 +15,6 @@ Dashboard de apresentação para a Divisão de Política Agrícola - DPAGRO
 - Biblioteca Plotly cria gráficos interativos com qualidade de publicação
 - Git e Github
 
-## 💛 Contato
+## 💙 Contato
 
 dev.nycolas@outlook.com
